@@ -1,11 +1,11 @@
 # Terms of Service
-Welcome to CollabMatch!
+
+Welcome to CollabMatch!  
 By using our app, you agree to follow these rules:
 
-- Use CollabMatch respectfully and lawfully.
-- Don’t share false information or impersonate others.
-- CollabMatch isn’t responsible for content shared by users.
-- Your data may be used to improve your experience.
+- Don’t share false information or impersonate others.  
+- CollabMatch isn’t responsible for content shared by users.  
+- Your data may be used to improve your experience.  
 
-Contact: support@collabmatch.com
+Contact: support@collabmatch.com  
 
